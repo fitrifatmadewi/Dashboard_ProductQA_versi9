@@ -1,0 +1,12 @@
+# Core app
+streamlit==1.35.0        # UI framework
+pandas==2.2.2            # DataFrame + read_excel
+numpy==1.26.4            # Perhitungan numerik
+
+# Visualisasi
+plotly==5.22.0           # px & graph_objects
+
+# Dukungan file
+openpyxl==3.1.4          # Engine read_excel (.xlsx)
+pillow==10.3.0           # streamlit.image() untuk PNG/JPG
+
