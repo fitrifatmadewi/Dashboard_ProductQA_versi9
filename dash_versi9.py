@@ -16,8 +16,8 @@ _theme_base = st.get_option("theme.base") or "light"
 pio.templates.default = "plotly_dark" if _theme_base == "dark" else "plotly_white"
 
 # ------------------- Logo di bagian atas ---------------------
-if os.path.exists("SIG_Logo.png"):
-    st.image("SIG_Logo.png", width=100)
+if os.path.exists("Semua_Logo.png"):
+    st.image("Semua_Logo.png", width=100)
 
 # =================== CSS ====================================================
 st.markdown(
