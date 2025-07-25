@@ -72,7 +72,7 @@ if "data_list" not in st.session_state:
 
 # =================== HEADER =================================================
 st.title("📈 Bulk Cement Quality Monitoring | SIG – Product Quality Assurance")
-st.markdown("""<small>Proyek Kerja Praktek – PT Semen Indonesia (Persero) Tbk & Institut Teknologi Sepuluh Nopember</small>""", unsafe_allow_html=True)
+st.markdown("""<small>Proyek Kerja Praktik – PT Semen Indonesia (Persero) Tbk & Institut Teknologi Sepuluh Nopember</small>""", unsafe_allow_html=True)
 st.markdown("---")
 
 # =================== Sidebar Input ==========================================
